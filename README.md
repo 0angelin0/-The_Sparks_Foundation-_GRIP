@@ -11,7 +11,7 @@ This repository contains the tasks that I completed while working as an intern f
 In this internship,I was able to successfully complete 2 tasks within the given time-frame.
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/6aIf0B5O0Fk)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-1_Linear_Regression.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/0angelin0/The_Sparks_Foundation_GRIP/blob/main/Task1-Linear_Regression.ipynb)
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
